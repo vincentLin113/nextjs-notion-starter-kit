@@ -1,6 +1,6 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '5768b5abbe164e3d8b1f5f64a0e76481',
+  rootNotionPageId: 'Vincent-Reading-3e09facff2094accad74aa0bd296d936',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -8,7 +8,7 @@ module.exports = {
 
   // basic site info (required)
   name: 'Vincent Reading',
-  domain: 'https://www.notion.so/Reading-List-b61ac422293b4d29b0a04ecd3f42eea7',
+  domain: 'https://www.notion.so/Vincent-Reading-3e09facff2094accad74aa0bd296d936',
   author: '文森',
 
   // open graph metadata (optional)
